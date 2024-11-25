@@ -11,5 +11,4 @@ Voici une liste de mes fromages à préférés :
 4. Gorgonzola
 5. Camembert
 6. Tomme de brebis
-
-J'adore ces fromages sur ma pizza !
+7. Test roquefort
